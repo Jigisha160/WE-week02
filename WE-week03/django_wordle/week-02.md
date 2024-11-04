@@ -1,0 +1,1 @@
+##when you are starting with new things just be patient all of this is trivial

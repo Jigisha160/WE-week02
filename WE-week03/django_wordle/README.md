@@ -1,0 +1,1 @@
+the purpose of this project is to learn the django framework. i am intentonally picking a simple bt non trivial problem statement.  
